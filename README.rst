@@ -6,7 +6,7 @@ Robot Framework
 
 Introduction
 ------------
-
+#Amoghaya Bhatia was here
 `Robot Framework <http://robotframework.org>`_ |r| is a generic open source
 automation framework for acceptance testing, acceptance test driven
 development (ATDD), and robotic process automation (RPA). It has simple plain
